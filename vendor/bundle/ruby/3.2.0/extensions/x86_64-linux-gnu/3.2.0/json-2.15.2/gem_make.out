@@ -10,16 +10,16 @@ checking for cpuid.h... yes
 creating Makefile
 
 current directory: /home/jessm/git/HumanLearning/vendor/bundle/ruby/3.2.0/gems/json-2.15.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20251027-7526-h2rh3v sitelibdir\=./.gem.20251027-7526-h2rh3v clean
+make DESTDIR\= sitearchdir\=./.gem.20251027-32629-ojmihh sitelibdir\=./.gem.20251027-32629-ojmihh clean
 
 current directory: /home/jessm/git/HumanLearning/vendor/bundle/ruby/3.2.0/gems/json-2.15.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20251027-7526-h2rh3v sitelibdir\=./.gem.20251027-7526-h2rh3v
+make DESTDIR\= sitearchdir\=./.gem.20251027-32629-ojmihh sitelibdir\=./.gem.20251027-32629-ojmihh
 compiling parser.c
 linking shared-object json/ext/parser.so
 
 current directory: /home/jessm/git/HumanLearning/vendor/bundle/ruby/3.2.0/gems/json-2.15.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20251027-7526-h2rh3v sitelibdir\=./.gem.20251027-7526-h2rh3v install
-/usr/bin/install -c -m 0755 parser.so ./.gem.20251027-7526-h2rh3v/json/ext
+make DESTDIR\= sitearchdir\=./.gem.20251027-32629-ojmihh sitelibdir\=./.gem.20251027-32629-ojmihh install
+/usr/bin/install -c -m 0755 parser.so ./.gem.20251027-32629-ojmihh/json/ext
 
 current directory: /home/jessm/git/HumanLearning/vendor/bundle/ruby/3.2.0/gems/json-2.15.2/ext/json/ext/parser
-make DESTDIR\= sitearchdir\=./.gem.20251027-7526-h2rh3v sitelibdir\=./.gem.20251027-7526-h2rh3v clean
+make DESTDIR\= sitearchdir\=./.gem.20251027-32629-ojmihh sitelibdir\=./.gem.20251027-32629-ojmihh clean

@@ -22,17 +22,17 @@ checking for RB_WARN_CATEGORY_DEPRECATED in ruby.h... yes
 creating Makefile
 
 current directory: /home/jessm/git/HumanLearning/vendor/bundle/ruby/3.2.0/gems/bigdecimal-3.3.1/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20251027-7526-ki3hfs sitelibdir\=./.gem.20251027-7526-ki3hfs clean
+make DESTDIR\= sitearchdir\=./.gem.20251027-32629-qw75fc sitelibdir\=./.gem.20251027-32629-qw75fc clean
 
 current directory: /home/jessm/git/HumanLearning/vendor/bundle/ruby/3.2.0/gems/bigdecimal-3.3.1/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20251027-7526-ki3hfs sitelibdir\=./.gem.20251027-7526-ki3hfs
+make DESTDIR\= sitearchdir\=./.gem.20251027-32629-qw75fc sitelibdir\=./.gem.20251027-32629-qw75fc
 compiling bigdecimal.c
 compiling missing.c
 linking shared-object bigdecimal.so
 
 current directory: /home/jessm/git/HumanLearning/vendor/bundle/ruby/3.2.0/gems/bigdecimal-3.3.1/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20251027-7526-ki3hfs sitelibdir\=./.gem.20251027-7526-ki3hfs install
-/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20251027-7526-ki3hfs
+make DESTDIR\= sitearchdir\=./.gem.20251027-32629-qw75fc sitelibdir\=./.gem.20251027-32629-qw75fc install
+/usr/bin/install -c -m 0755 bigdecimal.so ./.gem.20251027-32629-qw75fc
 
 current directory: /home/jessm/git/HumanLearning/vendor/bundle/ruby/3.2.0/gems/bigdecimal-3.3.1/ext/bigdecimal
-make DESTDIR\= sitearchdir\=./.gem.20251027-7526-ki3hfs sitelibdir\=./.gem.20251027-7526-ki3hfs clean
+make DESTDIR\= sitearchdir\=./.gem.20251027-32629-qw75fc sitelibdir\=./.gem.20251027-32629-qw75fc clean

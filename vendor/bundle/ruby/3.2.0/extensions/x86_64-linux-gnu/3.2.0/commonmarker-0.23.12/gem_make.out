@@ -4,10 +4,10 @@ checking for whether -std=c99 is accepted as CFLAGS... yes
 creating Makefile
 
 current directory: /home/jessm/git/HumanLearning/vendor/bundle/ruby/3.2.0/gems/commonmarker-0.23.12/ext/commonmarker
-make DESTDIR\= sitearchdir\=./.gem.20251027-7526-ou1por sitelibdir\=./.gem.20251027-7526-ou1por clean
+make DESTDIR\= sitearchdir\=./.gem.20251027-32629-4xse6m sitelibdir\=./.gem.20251027-32629-4xse6m clean
 
 current directory: /home/jessm/git/HumanLearning/vendor/bundle/ruby/3.2.0/gems/commonmarker-0.23.12/ext/commonmarker
-make DESTDIR\= sitearchdir\=./.gem.20251027-7526-ou1por sitelibdir\=./.gem.20251027-7526-ou1por
+make DESTDIR\= sitearchdir\=./.gem.20251027-32629-4xse6m sitelibdir\=./.gem.20251027-32629-4xse6m
 compiling arena.c
 compiling autolink.c
 compiling blocks.c
@@ -64,8 +64,8 @@ compiling xml.c
 linking shared-object commonmarker/commonmarker.so
 
 current directory: /home/jessm/git/HumanLearning/vendor/bundle/ruby/3.2.0/gems/commonmarker-0.23.12/ext/commonmarker
-make DESTDIR\= sitearchdir\=./.gem.20251027-7526-ou1por sitelibdir\=./.gem.20251027-7526-ou1por install
-/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20251027-7526-ou1por/commonmarker
+make DESTDIR\= sitearchdir\=./.gem.20251027-32629-4xse6m sitelibdir\=./.gem.20251027-32629-4xse6m install
+/usr/bin/install -c -m 0755 commonmarker.so ./.gem.20251027-32629-4xse6m/commonmarker
 
 current directory: /home/jessm/git/HumanLearning/vendor/bundle/ruby/3.2.0/gems/commonmarker-0.23.12/ext/commonmarker
-make DESTDIR\= sitearchdir\=./.gem.20251027-7526-ou1por sitelibdir\=./.gem.20251027-7526-ou1por clean
+make DESTDIR\= sitearchdir\=./.gem.20251027-32629-4xse6m sitelibdir\=./.gem.20251027-32629-4xse6m clean
