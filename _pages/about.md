@@ -1,8 +1,11 @@
 ---
 permalink: /about/
-title: "About"
+title: "Mission"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+To seek the beauty in curosity, the wonder in learning, and the joy in growth. What should humans be learning?
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+# About
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/me.png" alt="">
+
+I started this blog to focus more on the idea than on me, but if you must know, my name is Jess Cadena. I'm a senior computer science major at Texas A&M who likes to write English more than C++ at times. I'm not a prolific writer, and I have no editor, so please excuse any mistakes I make; this is a dork's blog, not the New York Times. 
