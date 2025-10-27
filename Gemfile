@@ -1,8 +1,6 @@
 source "https://rubygems.org"
 
-# Use Jekyll directly instead of github-pages
-gem "jekyll", "~> 3.9"
-gem "minimal-mistakes-jekyll"
+gem "github-pages", group: :jekyll_plugins
 gem "kramdown-parser-gfm"
 
 gem "tzinfo-data"
